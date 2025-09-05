@@ -1,0 +1,12 @@
+/mi-sitio
+│
+├─ index.html
+├─ css/
+│   └─ style.css
+├─ js/
+│   └─ main.js
+├─ admin/
+│   └─ index.html
+├─ posts/
+│   └─ ejemplo-post.md
+└─ config.yml
